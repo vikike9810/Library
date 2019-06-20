@@ -14,4 +14,4 @@ Az alábbi funkciókat valósítja meg:
 -Borítókép megnyitása nagyméretben
 
 
-<img src="https://github.com/vikike9810/Library/blob/master/65111520_2228877624091366_8115240091888123904_n.png" width="600"/>
+<img src="https://github.com/vikike9810/Library/blob/master/65111520_2228877624091366_8115240091888123904_n.png" width="1000"/>
