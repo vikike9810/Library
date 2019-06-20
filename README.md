@@ -11,6 +11,8 @@ Az alábbi funkciókat valósítja meg:
 
 -Könyv részleteinek megjelenítése
 
+-Szerző oldalára navigálás névre kattintás utána (ammenyiben létezik)
+
 -Borítókép megnyitása nagyméretben
 
 
